@@ -2,7 +2,7 @@
 Extension methods and Autofac modules to assist with configuration ASP.Net Core sites.
 
 ## Build Status
-[![.NET Core](https://github.com/TheMagnificent11/aspnetcore-infrastructure/actions/workflows/dotnet-core.yml/badge.svg)]
+![.NET Core](https://github.com/TheMagnificent11/aspnetcore-infrastructure/actions/workflows/dotnet-core.yml/badge.svg)
 
 ## Dependencies
 
