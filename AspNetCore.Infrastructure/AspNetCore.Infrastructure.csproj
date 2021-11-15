@@ -8,7 +8,7 @@
 	<PublishRepositoryUrl>true</PublishRepositoryUrl>
 	<Authors>Saji Weerasingham</Authors>
 	<Company>NA</Company>
-	<Product>ASPNetCore.Infrastructure</Product>
+	<Product>AspNetCore.Infrastructure</Product>
 	<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 	<GenerateDocumentationFile>true</GenerateDocumentationFile>
 	<EmbedUntrackedSources>true</EmbedUntrackedSources>
