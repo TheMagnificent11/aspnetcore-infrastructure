@@ -12,5 +12,3 @@ This is not a full-dependency tree, but just the major dependencies listed.
 
 - [Autofac](https://www.nuget.org/packages/autofac)
 - [Serilog](https://www.nuget.org/packages/Serilog)
-- [MediatR](https://www.nuget.org/packages/MediatR)
-- [FluentValidation](https://www.nuget.org/packages/FluentValidation)
