@@ -33,6 +33,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AspNetCore.Infrastructure\AspNetCore.Infrastructure.csproj" />
     <ProjectReference Include="..\Sample.Application\Sample.Application.csproj" />
   </ItemGroup>
 

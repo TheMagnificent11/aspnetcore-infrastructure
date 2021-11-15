@@ -1,4 +1,4 @@
-﻿using AspNetCore.Infrastructure.Mediation;
+﻿using AspNetCore.Mediation;
 using FluentValidation;
 using FluentValidation.Results;
 using Microsoft.EntityFrameworkCore;

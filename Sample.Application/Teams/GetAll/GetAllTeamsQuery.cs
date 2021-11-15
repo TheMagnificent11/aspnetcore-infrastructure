@@ -1,4 +1,4 @@
-﻿using AspNetCore.Infrastructure.Mediation;
+﻿using AspNetCore.Mediation;
 
 namespace Sample.Application.Teams.GetAll;
 

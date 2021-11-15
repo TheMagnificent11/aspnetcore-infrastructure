@@ -1,4 +1,4 @@
-﻿using AspNetCore.Infrastructure.Mediation;
+﻿using AspNetCore.Mediation;
 using Sample.Domain;
 
 namespace Sample.Application.Teams.Post;

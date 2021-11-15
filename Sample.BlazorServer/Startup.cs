@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using AspNetCore.Infrastructure.Logging;
-using AspNetCore.Infrastructure.Mediation;
 using AspNetCore.Infrastructure.Settings;
+using AspNetCore.Mediation;
 using Autofac;
 using Autofac.Features.Variance;
 using AutofacSerilogIntegration;

@@ -1,4 +1,4 @@
-﻿using AspNetCore.Infrastructure.Mediation;
+﻿using AspNetCore.Mediation;
 using Microsoft.EntityFrameworkCore;
 using Sample.Data;
 using Serilog;

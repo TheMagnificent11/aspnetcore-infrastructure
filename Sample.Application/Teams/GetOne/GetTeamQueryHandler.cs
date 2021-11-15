@@ -1,4 +1,4 @@
-﻿using AspNetCore.Infrastructure.Mediation;
+﻿using AspNetCore.Mediation;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Sample.Data;
